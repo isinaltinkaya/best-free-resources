@@ -12,3 +12,6 @@ http://phyloseminar.org/recorded.html
 
 ### Archery priors
 https://phylogeny.uconn.edu/archery-priors/
+
+### Dirichlet distribution
+https://phylogeny.uconn.edu/dirichlet-prior/
