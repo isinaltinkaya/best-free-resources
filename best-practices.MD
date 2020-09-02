@@ -12,3 +12,6 @@ https://github.com/zenika-open-source/promote-open-source-project#readme
 
 ### How to maintain open-source software projects
 https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects
+
+### How to use git
+https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide
