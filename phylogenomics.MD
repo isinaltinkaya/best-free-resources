@@ -15,3 +15,6 @@ https://phylogeny.uconn.edu/archery-priors/
 
 ### Dirichlet distribution
 https://phylogeny.uconn.edu/dirichlet-prior/
+
+### Evomics
+http://evomics.org/
